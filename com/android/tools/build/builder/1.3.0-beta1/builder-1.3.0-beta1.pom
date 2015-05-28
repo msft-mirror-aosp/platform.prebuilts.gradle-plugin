@@ -7,15 +7,21 @@
   <version>1.3.0-beta1</version>
   <dependencies>
     <dependency>
-      <groupId>com.android.tools.build</groupId>
-      <artifactId>manifest-merger</artifactId>
+      <groupId>com.android.tools</groupId>
+      <artifactId>common</artifactId>
       <version>24.3.0-beta1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>tools.base</groupId>
-      <artifactId>profile</artifactId>
-      <version>unspecified</version>
+      <groupId>com.android.tools</groupId>
+      <artifactId>sdk-common</artifactId>
+      <version>24.3.0-beta1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools.build</groupId>
+      <artifactId>builder-test-api</artifactId>
+      <version>1.3.0-beta1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -37,33 +43,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.tools</groupId>
-      <artifactId>testutils</artifactId>
-      <version>24.3.0-beta1</version>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.tools</groupId>
-      <artifactId>common</artifactId>
-      <version>24.3.0-beta1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.ow2.asm</groupId>
       <artifactId>asm-tree</artifactId>
       <version>5.0.3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.tools</groupId>
-      <artifactId>sdklib</artifactId>
-      <version>24.3.0-beta1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.tools</groupId>
-      <artifactId>sdk-common</artifactId>
-      <version>24.3.0-beta1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -73,8 +55,14 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.tools.ddms</groupId>
-      <artifactId>ddmlib</artifactId>
+      <groupId>com.android.tools</groupId>
+      <artifactId>sdklib</artifactId>
+      <version>24.3.0-beta1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools.build</groupId>
+      <artifactId>manifest-merger</artifactId>
       <version>24.3.0-beta1</version>
       <scope>compile</scope>
     </dependency>
@@ -85,10 +73,16 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.tools.build</groupId>
-      <artifactId>builder-test-api</artifactId>
-      <version>1.3.0-beta1</version>
+      <groupId>com.android.tools.ddms</groupId>
+      <artifactId>ddmlib</artifactId>
+      <version>24.3.0-beta1</version>
       <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools</groupId>
+      <artifactId>testutils</artifactId>
+      <version>24.3.0-beta1</version>
+      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
