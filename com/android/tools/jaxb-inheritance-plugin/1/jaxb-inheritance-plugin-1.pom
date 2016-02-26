@@ -33,7 +33,7 @@
     <dependency>
       <groupId>com.android.tools</groupId>
       <artifactId>annotations</artifactId>
-      <version>25.0.0-beta5</version>
+      <version>25.0.0-beta6</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
