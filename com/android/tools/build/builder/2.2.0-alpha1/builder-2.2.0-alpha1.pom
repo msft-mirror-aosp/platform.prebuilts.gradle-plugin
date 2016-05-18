@@ -27,21 +27,9 @@
   </scm>
   <dependencies>
     <dependency>
-      <groupId>com.android.tools.build</groupId>
-      <artifactId>builder-test-api</artifactId>
-      <version>2.2.0-alpha1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.12</version>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.tools</groupId>
-      <artifactId>testutils</artifactId>
-      <version>25.2.0-alpha1</version>
       <scope>test</scope>
     </dependency>
     <dependency>
@@ -51,8 +39,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.tools</groupId>
-      <artifactId>common</artifactId>
+      <groupId>com.android.tools.build</groupId>
+      <artifactId>manifest-merger</artifactId>
       <version>25.2.0-alpha1</version>
       <scope>compile</scope>
     </dependency>
@@ -63,15 +51,21 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.tools.jill</groupId>
-      <artifactId>jill-api</artifactId>
-      <version>0.10.0</version>
-      <scope>compile</scope>
+      <groupId>com.android.tools</groupId>
+      <artifactId>testutils</artifactId>
+      <version>25.2.0-alpha1</version>
+      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>com.android.tools</groupId>
-      <artifactId>sdk-common</artifactId>
+      <artifactId>sdklib</artifactId>
       <version>25.2.0-alpha1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools.jill</groupId>
+      <artifactId>jill-api</artifactId>
+      <version>0.10.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -87,21 +81,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.tools.build</groupId>
-      <artifactId>manifest-merger</artifactId>
-      <version>25.2.0-alpha1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.tools</groupId>
-      <artifactId>sdklib</artifactId>
+      <artifactId>common</artifactId>
       <version>25.2.0-alpha1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.tools.build</groupId>
-      <artifactId>builder-model</artifactId>
-      <version>2.2.0-alpha1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -114,6 +96,24 @@
       <groupId>com.squareup</groupId>
       <artifactId>javawriter</artifactId>
       <version>2.5.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools</groupId>
+      <artifactId>sdk-common</artifactId>
+      <version>25.2.0-alpha1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools.build</groupId>
+      <artifactId>builder-model</artifactId>
+      <version>2.2.0-alpha1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools.build</groupId>
+      <artifactId>builder-test-api</artifactId>
+      <version>2.2.0-alpha1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

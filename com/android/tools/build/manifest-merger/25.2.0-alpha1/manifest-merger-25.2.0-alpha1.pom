@@ -46,6 +46,12 @@
     </dependency>
     <dependency>
       <groupId>com.android.tools</groupId>
+      <artifactId>sdk-common</artifactId>
+      <version>25.2.0-alpha1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools</groupId>
       <artifactId>sdklib</artifactId>
       <version>25.2.0-alpha1</version>
       <scope>compile</scope>
@@ -61,12 +67,6 @@
       <artifactId>mockito-all</artifactId>
       <version>1.9.5</version>
       <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.android.tools</groupId>
-      <artifactId>sdk-common</artifactId>
-      <version>25.2.0-alpha1</version>
-      <scope>compile</scope>
     </dependency>
   </dependencies>
 </project>
