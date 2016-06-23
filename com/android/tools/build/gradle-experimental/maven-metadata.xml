@@ -3,7 +3,7 @@
   <groupId>com.android.tools.build</groupId>
   <artifactId>gradle-experimental</artifactId>
   <versioning>
-    <release>0.8.0-alpha3</release>
+    <release>0.8.0-alpha4</release>
     <versions>
       <version>1.2.4</version>
       <version>0.1.0</version>
@@ -33,7 +33,8 @@
       <version>0.8.0-alpha1</version>
       <version>0.7.2</version>
       <version>0.8.0-alpha3</version>
+      <version>0.8.0-alpha4</version>
     </versions>
-    <lastUpdated>20160609042717</lastUpdated>
+    <lastUpdated>20160623174242</lastUpdated>
   </versioning>
 </metadata>
