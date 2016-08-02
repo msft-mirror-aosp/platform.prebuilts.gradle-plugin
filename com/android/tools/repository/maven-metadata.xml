@@ -3,7 +3,7 @@
   <groupId>com.android.tools</groupId>
   <artifactId>repository</artifactId>
   <versioning>
-    <release>25.2.0-alpha6</release>
+    <release>25.2.0-alpha7</release>
     <versions>
       <version>25.0.0-alpha1</version>
       <version>25.0.0-alpha3</version>
@@ -27,7 +27,8 @@
       <version>25.2.0-alpha3</version>
       <version>25.2.0-alpha4</version>
       <version>25.2.0-alpha6</version>
+      <version>25.2.0-alpha7</version>
     </versions>
-    <lastUpdated>20160714002059</lastUpdated>
+    <lastUpdated>20160802013705</lastUpdated>
   </versioning>
 </metadata>
