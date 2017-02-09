@@ -3,7 +3,7 @@
   <groupId>com.android.tools.build</groupId>
   <artifactId>jobb</artifactId>
   <versioning>
-    <release>25.3.0-beta3</release>
+    <release>25.3.0-beta4</release>
     <versions>
       <version>24.4.0-beta3</version>
       <version>24.4.0-beta6</version>
@@ -42,7 +42,8 @@
       <version>25.3.0-beta1</version>
       <version>25.3.0-beta2</version>
       <version>25.3.0-beta3</version>
+      <version>25.3.0-beta4</version>
     </versions>
-    <lastUpdated>20170126183855</lastUpdated>
+    <lastUpdated>20170209215905</lastUpdated>
   </versioning>
 </metadata>
