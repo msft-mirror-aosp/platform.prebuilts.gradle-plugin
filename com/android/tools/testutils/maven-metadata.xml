@@ -3,7 +3,7 @@
   <groupId>com.android.tools</groupId>
   <artifactId>testutils</artifactId>
   <versioning>
-    <release>25.3.0-beta4</release>
+    <release>25.5.0-alpha-preview-01</release>
     <versions>
       <version>24.3.1</version>
       <version>24.4.0-alpha1</version>
@@ -48,7 +48,8 @@
       <version>25.3.0-beta2</version>
       <version>25.3.0-beta3</version>
       <version>25.3.0-beta4</version>
+      <version>25.5.0-alpha-preview-01</version>
     </versions>
-    <lastUpdated>20170209215921</lastUpdated>
+    <lastUpdated>20170223151115</lastUpdated>
   </versioning>
 </metadata>
