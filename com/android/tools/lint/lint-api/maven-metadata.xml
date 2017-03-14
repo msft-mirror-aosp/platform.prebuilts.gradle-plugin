@@ -3,7 +3,7 @@
   <groupId>com.android.tools.lint</groupId>
   <artifactId>lint-api</artifactId>
   <versioning>
-    <release>25.3.0</release>
+    <release>25.4.0-alpha1</release>
     <versions>
       <version>22.2.0</version>
       <version>22.4.0</version>
@@ -93,7 +93,8 @@
       <version>25.3.0-beta4</version>
       <version>25.5.0-alpha-preview-01</version>
       <version>25.3.0</version>
+      <version>25.4.0-alpha1</version>
     </versions>
-    <lastUpdated>20170302183745</lastUpdated>
+    <lastUpdated>20170314213503</lastUpdated>
   </versioning>
 </metadata>
