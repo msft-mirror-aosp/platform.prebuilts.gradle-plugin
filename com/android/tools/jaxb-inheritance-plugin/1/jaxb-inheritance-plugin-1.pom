@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.android.tools</groupId>
       <artifactId>annotations</artifactId>
-      <version>25.4.0-alpha6</version>
+      <version>25.5.0-alpha-preview-02</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
