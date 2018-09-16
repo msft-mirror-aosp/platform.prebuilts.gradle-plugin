@@ -12,5 +12,7 @@ java_import_host {
         "com/android/tools/external/org-jetbrains/uast/26.2.0-alpha16/uast-26.2.0-alpha16.jar",
         "com/android/tools/external/com-intellij/intellij-core/26.2.0-alpha16/intellij-core-26.2.0-alpha16.jar",
         "com/android/tools/external/com-intellij/kotlin-compiler/26.2.0-alpha16/kotlin-compiler-26.2.0-alpha16.jar",
+        "com/android/tools/repository/26.2.0-alpha16/repository-26.2.0-alpha16.jar",
+        "com/android/tools/build/manifest-merger/26.2.0-alpha16/manifest-merger-26.2.0-alpha16.jar",
     ],
 }
