@@ -1,5 +1,6 @@
-java_import_host {
+java_import {
     name: "metalava-gradle-plugin-deps",
+    host_supported: true,
     jars: [
         "com/android/tools/lint/lint-api/26.4.0-beta02/lint-api-26.4.0-beta02.jar",
         "com/android/tools/lint/lint-checks/26.4.0-beta02/lint-checks-26.4.0-beta02.jar",
