@@ -3,10 +3,10 @@
   <groupId>com.android.tools.build</groupId>
   <artifactId>apkzlib</artifactId>
   <versioning>
-    <release>3.5.0</release>
+    <release>4.0.0-beta02</release>
     <versions>
-      <version>3.5.0</version>
+      <version>4.0.0-beta02</version>
     </versions>
-    <lastUpdated>20191009203227</lastUpdated>
+    <lastUpdated>20200319224345</lastUpdated>
   </versioning>
 </metadata>
