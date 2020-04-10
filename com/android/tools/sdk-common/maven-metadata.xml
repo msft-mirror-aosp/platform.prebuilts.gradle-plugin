@@ -3,10 +3,10 @@
   <groupId>com.android.tools</groupId>
   <artifactId>sdk-common</artifactId>
   <versioning>
-    <release>27.0.0-beta02</release>
+    <release>27.1.0-alpha05</release>
     <versions>
-      <version>27.0.0-beta02</version>
+      <version>27.1.0-alpha05</version>
     </versions>
-    <lastUpdated>20200319224449</lastUpdated>
+    <lastUpdated>20200410164703</lastUpdated>
   </versioning>
 </metadata>
