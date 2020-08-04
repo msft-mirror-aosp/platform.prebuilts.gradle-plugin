@@ -3,10 +3,10 @@
   <groupId>com.android.tools.analytics-library</groupId>
   <artifactId>tracker</artifactId>
   <versioning>
-    <release>27.2.0-alpha01</release>
+    <release>27.2.0-alpha07</release>
     <versions>
-      <version>27.2.0-alpha01</version>
+      <version>27.2.0-alpha07</version>
     </versions>
-    <lastUpdated>20200612201322</lastUpdated>
+    <lastUpdated>20200803164313</lastUpdated>
   </versioning>
 </metadata>
