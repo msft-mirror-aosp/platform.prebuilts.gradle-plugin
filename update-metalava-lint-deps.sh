@@ -65,6 +65,7 @@ UNUSED_DEPS=(
   "com/android/tools/dvlib"
   "com/android/tools/layoutlib"
   "com/android/tools/play-sdk-proto"
+  "org/apache/commons/compress/harmony/pack200"
 )
 rm -fr ${UNUSED_DEPS[@]}
 
