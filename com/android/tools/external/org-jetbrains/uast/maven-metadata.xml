@@ -3,10 +3,10 @@
   <groupId>com.android.tools.external.org-jetbrains</groupId>
   <artifactId>uast</artifactId>
   <versioning>
-    <release>31.2.0-alpha06</release>
+    <release>31.2.0-alpha08</release>
     <versions>
-      <version>31.2.0-alpha06</version>
+      <version>31.2.0-alpha08</version>
     </versions>
-    <lastUpdated>20230602213237</lastUpdated>
+    <lastUpdated>20230620122328</lastUpdated>
   </versioning>
 </metadata>
