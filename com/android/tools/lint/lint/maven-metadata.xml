@@ -3,10 +3,10 @@
   <groupId>com.android.tools.lint</groupId>
   <artifactId>lint</artifactId>
   <versioning>
-    <release>31.3.0-alpha06</release>
+    <release>31.4.0-alpha02</release>
     <versions>
-      <version>31.3.0-alpha06</version>
+      <version>31.4.0-alpha02</version>
     </versions>
-    <lastUpdated>20231214190904</lastUpdated>
+    <lastUpdated>20240105125621</lastUpdated>
   </versioning>
 </metadata>
