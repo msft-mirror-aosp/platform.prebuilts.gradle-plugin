@@ -25,11 +25,12 @@ function delete_mvn_dir {
 
 trap delete_mvn_dir EXIT
 
-# Download and unzip Apache Maven 3.9.2
+MAVEN_VERSION=3.9.4
+# Download and unzip Apache Maven
 (
   cd $MVN_DIR
-  curl https://dlcdn.apache.org/maven/maven-3/3.9.2/binaries/apache-maven-3.9.2-bin.zip --output apache-maven-3.9.2-bin.zip
-  unzip apache-maven-3.9.2-bin.zip
+  curl https://dlcdn.apache.org/maven/maven-3/${MAVEN_VERSION}/binaries/apache-maven-${MAVEN_VERSION}-bin.zip --output apache-maven-${MAVEN_VERSION}-bin.zip
+  unzip apache-maven-${MAVEN_VERSION}-bin.zip
 )
 
 MVN_BIN_DIR=$(find $MVN_DIR -name bin)
